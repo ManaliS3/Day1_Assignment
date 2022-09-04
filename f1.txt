@@ -1,3 +1,6 @@
 Writing text in empty file.
 
 Adding some text again in f1.txt.
+
+Now I have switched from branch1 to master.
+Because of that couldn't see the earlier contents.
